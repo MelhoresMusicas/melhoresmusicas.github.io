@@ -56,13 +56,21 @@ table {
   width: 100%;
   td {
     border: 1px solid #DDD;
-    margin: 1px 5px;
   }
   td:nth-child(1) {
     font-style: italic;
     width: 15%;
+    padding: 1px 5px;
   }
   tr:nth-child(2n) {
     background-color: #EEE;
   }
+}
+
+thead {
+  display: none;
+}
+
+h2 {
+  margin-top: 15px;
 }
