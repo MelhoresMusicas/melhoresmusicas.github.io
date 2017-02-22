@@ -3,7 +3,7 @@
 | Nome    | Mensagem                                                   |
 | ------- | ---------------------------------------------------------- |
 | Gabriel | Rakta                                                      |
-| Gabriel | https://www.youtube.com/watch?v=T8bDMzi6D2                 |
+| Gabriel | [][https://www.youtube.com/watch?v=T8bDMzi6D2]             |
 | Caboja  | Foda o rakta                                               |
 | Caboja  | Foda demais. Quase rola aqui em camaçari no ano passado    |
 | Joenio  | Pô, bala!                                                  |
