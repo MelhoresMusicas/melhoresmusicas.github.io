@@ -12,3 +12,5 @@ markdown: kramdown
 
 # Jekyll theme for GitHub Page
 theme: jekyll-theme-cayman
+
+permalink: ":title/index.html"
