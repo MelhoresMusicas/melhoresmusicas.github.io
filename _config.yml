@@ -1,1 +1,14 @@
+# Site settings
+title: "Melhores Músicas"
+email:
+description:
+baseurl: # the subpath of your site, e.g. /blog
+url: "http://melhoresmusicas.github.io" # the base hostname & protocol for your site
+twitter_username:
+github_username: MelhoresMusicas
+
+# Build settings
+markdown: kramdown
+
+# Jekyll theme for GitHub Page
 theme: jekyll-theme-cayman
