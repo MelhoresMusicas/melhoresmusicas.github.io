@@ -9,7 +9,7 @@ layout: default
       <li>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          <p class="post-meta">{{ post.tags | array_to_sentence_string: ' ' }}</p>
+          <p class="post-meta">{{ post.tags | array_to_sentence_string }}</p>
         </h2>
       </li>
     {% endfor %}
